@@ -1,0 +1,75 @@
+
+
+.btn {
+    filter: invert(100%); 
+      -webkit-filter: invert(100%);
+}
+
+.btnBack {
+    background-color: red;
+}
+
+.right {
+    text-align: right;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 0px 10px 0px 0px;
+    color: white;
+}
+
+.rightBottom {
+    text-align: right;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 20px 0px 0px 0px;
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+
+}
+
+.logoB {
+    background-color:red;
+ 
+}
+
+.btn.cart {
+    margin-left: -10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
+
+ #welcome {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+ }
+
+ #hardwork {
+    font-family: 'RocknRoll One', sans-serif;
+    font-size: 30px;
+    color: cornflowerblue;
+    text-align: center;
+ }
+
+ div ul li a:hover {
+     background-color: red;
+ }
+
+ #tired {
+     margin-left: 35%;
+ }
+     
